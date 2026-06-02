@@ -12,5 +12,5 @@ Este repositorio contiene los resultados de las prácticas de la materia con el 
 
 | Número de Práctica | Nombre de la Práctica | Firmas | Estatus |
 | :---: | :--- | :---: | :---: |
-| 1 | [Análisis Exploratorio de Datos (EDA) con Python y Jupyter](https://github.com/DevFntxy/ECBD_9A_IDGS_PRACTICAS_230892/tree/Practica03/Practica03) | 🆘 | 🆘 |
+| 1 | [Análisis Exploratorio de Datos (EDA) con Python y Jupyter](https://github.com/DevFntxy/ECBD_9A_IDGS_PRACTICAS_230892/blob/Practica03/Practica03/Practica03.ipynb) | 🆘 | 🆘 |
 | 2 | | | |
