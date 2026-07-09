@@ -1,0 +1,201 @@
+School ID,School Name,School Metro Type,School Percentage Free Lunch,School State,School Zip,School City,School County,School District
+bdd640fb06671ad11c80317fa3b1799d,Miami Elementary School,urban,17.0,Florida,23434,Miami,Miami County,Miami School District
+07a0ca6e0822e8f36c031199972a8469,Houston Elementary School,urban,64.0,Texas,88907,Houston,Houston County,Houston School District
+a65ed389b74d0fb132e706298fadc1a6,Sammamish Elementary School,town,75.0,Washington,46463,Sammamish,Sammamish County,Sammamish School District
+b2b9437a28df6ec4ce4a2bbdc241330b,Sammamish High School,suburban,19.0,Washington,38221,Sammamish,Sammamish County,Sammamish School District
+18c267976142ea7d17be31111a2a73ed,Capon Bridge Academy,unknown,33.0,West Virginia,15695,Capon Bridge,Capon Bridge County,Capon Bridge School District
+ec1b8ca1f91e1d4c1ff49b7889463e85,Sammamish High School,unknown,37.0,Washington,92397,Sammamish,Sammamish County,Sammamish School District
+11ce5dd2b45ed1f03139d32c93cd59bf,Los Angeles Elementary School,suburban,10.0,California,40512,Los Angeles,Los Angeles County,Los Angeles School District
+a2bc372f7412b29347294739614ff3d7,Capon Bridge High School,suburban,45.0,West Virginia,37460,Capon Bridge,Capon Bridge County,Capon Bridge School District
+a5e5a5abaefcfad8efc89849b3aa7efe,The Woodlands Middle School,urban,68.0,Texas,42087,The Woodlands,The Woodlands County,The Woodlands School District
+fd5166e6451b4cf36123fdf77656af72,Chicago High School,rural,29.0,Illinois,14207,Chicago,Chicago County,Chicago School District
+3602f8ac10f1bc81448aaa9e66b2bc5b,Capon Bridge Academy,town,50.0,West Virginia,94259,Capon Bridge,Capon Bridge County,Capon Bridge School District
+3f22faf823bed01d43cf2fde24933b83,Miami Middle School,unknown,51.0,Florida,57447,Miami,Miami County,Miami School District
+827050a82369b584ff5e9ff0ff50bde4,Oxford Middle School,rural,14.0,Michigan,30033,Oxford,Oxford County,Oxford School District
+98ae43346c12ace8ae340454cac5b68c,Redwater High School,town,76.0,Texas,71348,Redwater,Redwater County,Redwater School District
+f143262fdc5c0eed8da0365bf89897b9,Los Angeles High School,unknown,96.0,California,44973,Los Angeles,Los Angeles County,Los Angeles School District
+287d06ca6f4cc69a4b22d3081c8eaee9,Oxford Elementary School,suburban,64.0,Michigan,33416,Oxford,Oxford County,Oxford School District
+d777a4774c66e0a8a013ac6ededa4e16,Chicago Elementary School,suburban,97.0,Illinois,31174,Chicago,Chicago County,Chicago School District
+04fc6d827d15438552fbe43b99546eb4,Redwater Middle School,suburban,30.0,Texas,17592,Redwater,Redwater County,Redwater School District
+14296c07f26b4776913e4de2e0c53cb8,The Woodlands Middle School,town,8.0,Texas,79822,The Woodlands,The Woodlands County,The Woodlands School District
+f264accc79ac1b1ea8e56e0c20de435d,Brooklyn Middle School,unknown,77.0,New York,65461,Brooklyn,Brooklyn County,Brooklyn School District
+badcc32ac1590f538a0f4efbedcd465e,Chicago High School,town,85.0,Illinois,95180,Chicago,Chicago County,Chicago School District
+7394988f847fd9b4e64d1bcb702753a1,Houston Elementary School,urban,8.0,Texas,54313,Houston,Houston County,Houston School District
+96a402f23ae8cc938dcdcd03969b6662,Chicago Elementary School,rural,90.0,Illinois,92719,Chicago,Chicago County,Chicago School District
+080aadfbe7c99b26114125c63a9bedd4,Capon Bridge Academy,unknown,30.0,West Virginia,46500,Capon Bridge,Capon Bridge County,Capon Bridge School District
+b92da22b21df306f8a0b3c3336d8393a,Oxford Elementary School,town,52.0,Michigan,34957,Oxford,Oxford County,Oxford School District
+5ab33edf6e595ed3a8b317fa18d0752b,Sammamish Elementary School,town,93.0,Washington,17100,Sammamish,Sammamish County,Sammamish School District
+56dc8907ba6c34ab6712303a0f844fef,Houston Academy,urban,24.0,Texas,80292,Houston,Houston County,Houston School District
+474ebc192ef912766c006f6123e2fcb4,Oxford Elementary School,rural,56.0,Michigan,82132,Oxford,Oxford County,Oxford School District
+8a63f881ffd0f9d5a6f2f7b80cf35b58,Los Angeles Academy,urban,21.0,California,63269,Los Angeles,Los Angeles County,Los Angeles School District
+66aa9385dd59ba7136b824817b3a4e3e,Los Angeles High School,town,0.0,California,61173,Los Angeles,Los Angeles County,Los Angeles School District
+747b6dbac8fe3ccdc8b8d9c6ed3049cf,Miami Middle School,unknown,84.0,Florida,73788,Miami,Miami County,Miami School District
+f7fd564637bb3eec4bf50b52309d258c,Los Angeles Academy,suburban,7.0,California,16572,Los Angeles,Los Angeles County,Los Angeles School District
+87f7e1fbda4bd9caeb5cf46780bacd64,New York Elementary School,unknown,10.0,New York,34356,New York,New York County,New York School District
+dca02eecacdabacc1165e21098543881,Chicago Elementary School,rural,72.0,Illinois,42271,Chicago,Chicago County,Chicago School District
+a8499b926b5252e314fcdd549e8fc965,Capon Bridge Middle School,urban,85.0,West Virginia,51180,Capon Bridge,Capon Bridge County,Capon Bridge School District
+abf3e3fc21813d25655238a643ff5011,Miami Elementary School,suburban,96.0,Florida,19508,Miami,Miami County,Miami School District
+902059e4ff9ab5c29f044aed75523327,Houston High School,unknown,27.0,Texas,76307,Houston,Houston County,Houston School District
+e18050815958a499eeea163e21e8ac68,Houston Academy,suburban,36.0,Texas,30676,Houston,Houston County,Houston School District
+4d71c366b41b31438b10550cd5704f32,San Francisco Elementary School,rural,17.0,California,44664,San Francisco,San Francisco County,San Francisco School District
+8da01097be0f051b1b66b5a9e3c43657,Brooklyn High School,suburban,77.0,New York,37607,Brooklyn,Brooklyn County,Brooklyn School District
+da587e8aa25d6b29afffcfd2341ef40b,Miami Academy,suburban,6.0,Florida,22097,Miami,Miami County,Miami School District
+00e85ece0b49452d46d483f3d450281c,Capon Bridge Academy,suburban,20.0,West Virginia,67912,Capon Bridge,Capon Bridge County,Capon Bridge School District
+13432e611ca3c4480279b6a68f9797b0,New York Middle School,suburban,74.0,New York,82420,New York,New York County,New York School District
+4eea04e70ab54bde20a045026e068097,Capon Bridge Middle School,suburban,26.0,West Virginia,99399,Capon Bridge,Capon Bridge County,Capon Bridge School District
+c7b5b2bc5a8aaeca1a50aec3aabc25fa,Sammamish Academy,urban,20.0,Washington,33206,Sammamish,Sammamish County,Sammamish School District
+ecab3301bc8f7d292dea94930658663a,Capon Bridge Elementary School,urban,34.0,West Virginia,30866,Capon Bridge,Capon Bridge County,Capon Bridge School District
+dbccc47709e9db0adf46529061ee411a,Oxford High School,urban,58.0,Michigan,55830,Oxford,Oxford County,Oxford School District
+3a43b2badf0f06cbcb9bc326d20eac17,Chicago High School,urban,51.0,Illinois,53025,Chicago,Chicago County,Chicago School District
+c5f8bc16f7860b5011c58ef0dd463c09,Miami High School,unknown,51.0,Florida,99065,Miami,Miami County,Miami School District
+e08596db1d8709660710d430f071d879,Miami Elementary School,unknown,33.0,Florida,15014,Miami,Miami County,Miami School District
+ba81edd9587ef3446f3f920c98b8e4cc,Capon Bridge Academy,unknown,65.0,West Virginia,25157,Capon Bridge,Capon Bridge County,Capon Bridge School District
+41357e8c30a900ad939b462de645f129,San Francisco Middle School,rural,66.0,California,80575,San Francisco,San Francisco County,San Francisco School District
+f2e9702d11e9cdaa6e6981a35d3d9e56,Capon Bridge High School,rural,92.0,West Virginia,49363,Capon Bridge,Capon Bridge County,Capon Bridge School District
+6703b6365380b904688c7015aab97e49,Miami Academy,urban,53.0,Florida,97153,Miami,Miami County,Miami School District
+2c8d0e44e71e43a6bf85bf0ead64b56c,Miami High School,unknown,0.0,Florida,49829,Miami,Miami County,Miami School District
+9479e1e6c9277d9b6e0d264835ce8841,Capon Bridge Middle School,town,56.0,West Virginia,98555,Capon Bridge,Capon Bridge County,Capon Bridge School District
+e6b3c944cb323e357922bac282dc4c8e,New York High School,suburban,65.0,New York,97012,New York,New York County,New York School District
+c04a96c4f3b63fe1d184332417e8392a,Chicago Elementary School,urban,25.0,Illinois,29313,Chicago,Chicago County,Chicago School District
+79a28903fbe33b243eae00320bd4a990,Redwater Middle School,town,80.0,Texas,85454,Redwater,Redwater County,Redwater School District
+7e8f8095624c69b6b24445a7b7e58481,Sammamish Elementary School,urban,83.0,Washington,10726,Sammamish,Sammamish County,Sammamish School District
+2d06e8cf3805f9076cd66193c7468f59,Oxford Academy,unknown,31.0,Michigan,25906,Oxford,Oxford County,Oxford School District
+aae65fc176f2dbfecd29a36f222282e1,Capon Bridge Academy,unknown,92.0,West Virginia,76162,Capon Bridge,Capon Bridge County,Capon Bridge School District
+722764e68c41561be827a1b9d4a02e53,Brooklyn High School,town,33.0,New York,42406,Brooklyn,Brooklyn County,Brooklyn School District
+7c0e8cd88573e793c715b2b9c40c5d91,Chicago Middle School,town,9.0,Illinois,47450,Chicago,Chicago County,Chicago School District
+e49d681d51d87c6455fa1ab8458f1f19,Houston Middle School,urban,29.0,Texas,60205,Houston,Houston County,Houston School District
+6a34c85410714d5136c59dacb4d7e28e,Sammamish Elementary School,unknown,59.0,Washington,64496,Sammamish,Sammamish County,Sammamish School District
+63b4c08b6b8e869fd5385b0e34f3193c,San Francisco High School,town,0.0,California,56105,San Francisco,San Francisco County,San Francisco School District
+e4429ebbda7b909563d62a39c0e3befd,Sammamish Academy,town,28.0,Washington,45774,Sammamish,Sammamish County,Sammamish School District
+560c95ee638c254c076e2bba7c5308bf,Sammamish Elementary School,town,16.0,Washington,91560,Sammamish,Sammamish County,Sammamish School District
+907bfe36978648f864de82e6e82c7d7b,Los Angeles Middle School,town,17.0,California,70515,Los Angeles,Los Angeles County,Los Angeles School District
+53cd6268610cf37342999aa40cdf742b,Chicago High School,suburban,43.0,Illinois,59692,Chicago,Chicago County,Chicago School District
+6bebac31d4f8fd72f3821cfdc083b73a,Miami Elementary School,town,2.0,Florida,80702,Miami,Miami County,Miami School District
+39669fa759970043f3b1025bfff9f585,The Woodlands Middle School,rural,96.0,Texas,14067,The Woodlands,The Woodlands County,The Woodlands School District
+9f0fda8d05379ff6d6d7b3b833094d35,New York Elementary School,urban,60.0,New York,97747,New York,New York County,New York School District
+770c779837cc863bf2a0345990604f62,Miami Elementary School,urban,77.0,Florida,89593,Miami,Miami County,Miami School District
+f6f7f0cc29ec8e49d1bdb8c0c71d5e60,Miami Academy,unknown,3.0,Florida,50888,Miami,Miami County,Miami School District
+32c5bd89b70b3420f1043785658b2523,The Woodlands Elementary School,urban,13.0,Texas,49529,The Woodlands,The Woodlands County,The Woodlands School District
+c85aca4690e0f4a0fbdd3933cbd58bf6,San Francisco High School,unknown,54.0,California,96706,San Francisco,San Francisco County,San Francisco School District
+575aed2ca5c5650c8186a57611a72609,San Francisco High School,town,13.0,California,66822,San Francisco,San Francisco County,San Francisco School District
+75b17a55d4262982e43e4288a2b5b498,Brooklyn High School,urban,93.0,New York,78386,Brooklyn,Brooklyn County,Brooklyn School District
+89c5b31aeb6c1016cee624d09dac6e83,Oxford High School,town,93.0,Michigan,87656,Oxford,Oxford County,Oxford School District
+d4aac9a33ed8c56cda09dfa052828d80,Redwater Academy,town,31.0,Texas,70910,Redwater,Redwater County,Redwater School District
+d9d80b8d7e8adee70758e201561e16d1,Capon Bridge High School,town,27.0,West Virginia,56507,Capon Bridge,Capon Bridge County,Capon Bridge School District
+989d9d4ae15ca6664797b2c957207246,Miami Middle School,unknown,24.0,Florida,21221,Miami,Miami County,Miami School District
+8e2007247d137018680bac63b856d035,Chicago Elementary School,town,57.0,Illinois,12260,Chicago,Chicago County,Chicago School District
+b118f68d6786d50638ba8abc4b5305e5,Chicago High School,unknown,47.0,Illinois,72031,Chicago,Chicago County,Chicago School District
+8ce6424dbef59fe6ff233d5f6cedd15d,Capon Bridge High School,town,34.0,West Virginia,50189,Capon Bridge,Capon Bridge County,Capon Bridge School District
+314d3441b8a6171f1ee34dc43b048a8b,Capon Bridge Middle School,unknown,97.0,West Virginia,34267,Capon Bridge,Capon Bridge County,Capon Bridge School District
+46c8adfe7bf47042bd1531c83764fbda,Miami High School,urban,37.0,Florida,39816,Miami,Miami County,Miami School District
+b540b30e039f3a254d6168bd2defe193,Brooklyn High School,rural,6.0,New York,82529,Brooklyn,Brooklyn County,Brooklyn School District
+a34b6cf62053da42f1afdb65b289f224,Oxford Academy,rural,73.0,Michigan,47268,Oxford,Oxford County,Oxford School District
+2f32751e5738811d70c2903f7a8d03aa,San Francisco Academy,town,14.0,California,18564,San Francisco,San Francisco County,San Francisco School District
+a1235a8c93b7a88612f70c977de31a51,Los Angeles Elementary School,urban,72.0,California,49824,Los Angeles,Los Angeles County,Los Angeles School District
+8edddfcd1e52d7703f897142fe716b14,Sammamish Academy,unknown,48.0,Washington,69049,Sammamish,Sammamish County,Sammamish School District
+fd72b05096a9954fdc33e1f94c1f55ab,Sammamish Elementary School,unknown,79.0,Washington,17894,Sammamish,Sammamish County,Sammamish School District
+a021c0ca3531968dc342bd2bf295456e,Chicago Middle School,rural,20.0,Illinois,41439,Chicago,Chicago County,Chicago School District
+00af5b3a2812859a1337739e8d4f5d27,Sammamish Elementary School,unknown,60.0,Washington,48175,Sammamish,Sammamish County,Sammamish School District
+48603b32b4fb0eb949c13de73b4206c5,Oxford Middle School,urban,33.0,Michigan,91927,Oxford,Oxford County,Oxford School District
+398d1ca68b6870b51d61fac36cd5e859,Brooklyn Middle School,urban,9.0,New York,17816,Brooklyn,Brooklyn County,Brooklyn School District
+bfbbb17f9854ce4e4ebfa5c3cae9b4a7,Miami Academy,rural,59.0,Florida,49857,Miami,Miami County,Miami School District
+8a3c3b5e801ef1da45b1ed25f1533ae8,Oxford Academy,rural,76.0,Michigan,15224,Oxford,Oxford County,Oxford School District
+40181c6e9a8cfa3c5283aac7bc0a6a5d,Los Angeles Elementary School,urban,86.0,California,85392,Los Angeles,Los Angeles County,Los Angeles School District
+d248a9a7ac1aa554c3c75611ffe3fa49,Miami Academy,urban,60.0,Florida,78021,Miami,Miami County,Miami School District
+ff37d19c2e76128b473544f9ea83bf00,Sammamish Academy,rural,60.0,Washington,55607,Sammamish,Sammamish County,Sammamish School District
+1ac70ec0ab8ddeb45230dfbd5553b2fe,Brooklyn High School,town,88.0,New York,74942,Brooklyn,Brooklyn County,Brooklyn School District
+d045dd1c668409e3f1f8343ea99f1318,San Francisco High School,rural,40.0,California,43082,San Francisco,San Francisco County,San Francisco School District
+6778043bc5c5b37af85e06a11dad09b2,San Francisco High School,town,6.0,California,34586,San Francisco,San Francisco County,San Francisco School District
+a01ac9927f9d3e64c1a6423b9f64eeed,Oxford Middle School,urban,34.0,Michigan,81987,Oxford,Oxford County,Oxford School District
+e17f29e17028604649bc473fed7bf656,Oxford Middle School,rural,80.0,Michigan,89806,Oxford,Oxford County,Oxford School District
+8d03c91e4f8d5238288b78b5b5b453ca,San Francisco Academy,rural,28.0,California,24871,San Francisco,San Francisco County,San Francisco School District
+d50755d9a5d04d531e1242e3f27292b6,Brooklyn Academy,suburban,65.0,New York,45838,Brooklyn,Brooklyn County,Brooklyn School District
+78e3654bfaf14ff07b85179ad5b077e0,Chicago Middle School,unknown,18.0,Illinois,60277,Chicago,Chicago County,Chicago School District
+bf0d073d821c13369970cf60ebff8d15,New York High School,suburban,98.0,New York,64387,New York,New York County,New York School District
+44656d6b81fb18b3c9a7d91fef2ae713,San Francisco Academy,suburban,75.0,California,86011,San Francisco,San Francisco County,San Francisco School District
+89e06ab37250ee18260a5962dd81b7f5,Oxford Academy,suburban,70.0,Michigan,81228,Oxford,Oxford County,Oxford School District
+de9e37575260001eeecf67d2749176f4,Chicago Academy,unknown,49.0,Illinois,40613,Chicago,Chicago County,Chicago School District
+7914f8a8bea4ff31517400f80b2c782a,Sammamish Middle School,urban,63.0,Washington,14852,Sammamish,Sammamish County,Sammamish School District
+54fd9ad39716108ef72169bb80962718,Redwater Elementary School,rural,67.0,Texas,69890,Redwater,Redwater County,Redwater School District
+def5768968f45bce24e75e8eb8f21423,New York High School,town,100.0,New York,44737,New York,New York County,New York School District
+a65bb1f265c17795b15516bc9f8ded97,Redwater Academy,unknown,48.0,Texas,51505,Redwater,Redwater County,Redwater School District
+9e11d2cd0930aef68a80068ddf547e50,Houston Academy,suburban,29.0,Texas,21846,Houston,Houston County,Houston School District
+a23d4c2fc2a796891933918cfa745761,Redwater Elementary School,urban,88.0,Texas,49251,Redwater,Redwater County,Redwater School District
+0e5dd462cbd00ef2530a37df0bc61066,Miami Middle School,suburban,55.0,Florida,29080,Miami,Miami County,Miami School District
+ae8a781390e0a95b697c392387fa841a,New York Academy,urban,10.0,New York,89887,New York,New York County,New York School District
+7f671eec3da70577aee1e86b9ea556aa,New York Academy,town,81.0,New York,43289,New York,New York County,New York School District
+e61ede900267deb3aab612c9415d174a,Oxford Academy,unknown,20.0,Michigan,19681,Oxford,Oxford County,Oxford School District
+966b1964fcd6bdca5876fd09f1faf665,Miami Middle School,suburban,58.0,Florida,49599,Miami,Miami County,Miami School District
+7bb38605da743152627b41a1ffd6f232,Houston High School,town,73.0,Texas,57049,Houston,Houston County,Houston School District
+059dd55d4b943e30b303f438fe2110d0,Sammamish Elementary School,rural,72.0,Washington,99889,Sammamish,Sammamish County,Sammamish School District
+7f2984f5bec39a379b3d74bde91e314e,Miami Middle School,unknown,45.0,Florida,38705,Miami,Miami County,Miami School District
+c16d83edad81f8bd402913ec9ef2b93e,New York Elementary School,rural,39.0,New York,67779,New York,New York County,New York School District
+21a4344fbb7bee035d678bb1945ef2e4,Redwater Middle School,suburban,95.0,Texas,64460,Redwater,Redwater County,Redwater School District
+8a16a06cc958e75e21d53971336749b5,Capon Bridge High School,urban,32.0,West Virginia,73156,Capon Bridge,Capon Bridge County,Capon Bridge School District
+cde22f1c56b60afcded255d0bf1e8366,Redwater Academy,rural,18.0,Texas,39571,Redwater,Redwater County,Redwater School District
+8eac0a33cdf974a7d882b5c1f79efd70,Capon Bridge Elementary School,town,1.0,West Virginia,44663,Capon Bridge,Capon Bridge County,Capon Bridge School District
+bfbf397bac3e7b0d5e5ba13d746cdb77,Miami Middle School,suburban,13.0,Florida,98452,Miami,Miami County,Miami School District
+e25d36eb9e9a9f83066803ee78b2b549,Capon Bridge High School,rural,81.0,West Virginia,70852,Capon Bridge,Capon Bridge County,Capon Bridge School District
+23c86d301dde7969688613dba6348e78,Los Angeles Elementary School,suburban,63.0,California,25220,Los Angeles,Los Angeles County,Los Angeles School District
+22bae10e899ca782e3236d1a3c1bdacc,Sammamish Academy,suburban,85.0,Washington,80804,Sammamish,Sammamish County,Sammamish School District
+278ed00dba0266efbe055787965befdf,Sammamish High School,town,78.0,Washington,63492,Sammamish,Sammamish County,Sammamish School District
+379efc6e5edb0d3cb0b63bcf08601833,Oxford High School,urban,46.0,Michigan,23022,Oxford,Oxford County,Oxford School District
+a5135ea0fa53e34de6d5901d8b621d41,Capon Bridge Elementary School,town,35.0,West Virginia,34878,Capon Bridge,Capon Bridge County,Capon Bridge School District
+74685b98d2fe2fded918b3e5f2f25eef,The Woodlands Elementary School,urban,82.0,Texas,93819,The Woodlands,The Woodlands County,The Woodlands School District
+3e5a87e35560db22c96b5edb0cf2b69b,New York Middle School,rural,97.0,New York,82641,New York,New York County,New York School District
+dea45c19d0243d723748967f961d33ba,Chicago Elementary School,urban,100.0,Illinois,88116,Chicago,Chicago County,Chicago School District
+250a4578fbe94499dbc080fd46fb7bf3,Brooklyn Elementary School,urban,14.0,New York,96646,Brooklyn,Brooklyn County,Brooklyn School District
+ca3c6f5f5bb5c40c03cde2e321bddb41,Chicago Elementary School,rural,22.0,Illinois,44782,Chicago,Chicago County,Chicago School District
+86ad8a8c6bc4123ebde13c1b20733f6d,The Woodlands High School,rural,60.0,Texas,68756,The Woodlands,The Woodlands County,The Woodlands School District
+73b6a09b1beaf6ac97fa7f0483639007,Chicago Elementary School,unknown,38.0,Illinois,70036,Chicago,Chicago County,Chicago School District
+d8e88ebb7a9e8eefffa361be0f9240e1,Sammamish Elementary School,rural,62.0,Washington,68138,Sammamish,Sammamish County,Sammamish School District
+9bb961555275eb9414aeaf5ce63658c9,New York High School,urban,35.0,New York,91830,New York,New York County,New York School District
+87d292a698eeac2bfe9fecaa6182f347,Miami Elementary School,unknown,77.0,Florida,66387,Miami,Miami County,Miami School District
+da509fed1d4a3d81b3a7d0e0cb08587d,Chicago High School,town,29.0,Illinois,64239,Chicago,Chicago County,Chicago School District
+6a7e4c3666132e6974188109d3d1bf0f,Redwater High School,town,40.0,Texas,97177,Redwater,Redwater County,Redwater School District
+afd380c42713582cf41ea3ac5fd23109,Oxford Academy,rural,10.0,Michigan,22219,Oxford,Oxford County,Oxford School District
+5f65c8cebd21bc11be9d61ee18b87245,New York High School,unknown,71.0,New York,83620,New York,New York County,New York School District
+5a856750692ac1391f4a8ca1ab85fd59,Sammamish High School,suburban,76.0,Washington,50953,Sammamish,Sammamish County,Sammamish School District
+36760ce581e5c9f693f277cc1a85910d,Brooklyn High School,urban,13.0,New York,55890,Brooklyn,Brooklyn County,Brooklyn School District
+92f837d447503f1dc33a1f6c1d691fba,Chicago Elementary School,unknown,98.0,Illinois,91490,Chicago,Chicago County,Chicago School District
+d4578ad9a867a096edd877c89be71737,Miami High School,urban,34.0,Florida,50499,Miami,Miami County,Miami School District
+deaf528d2e7098380190262059dcabd0,Brooklyn Elementary School,rural,18.0,New York,92991,Brooklyn,Brooklyn County,Brooklyn School District
+3712f2d187cdb6a1bf012e32177d6e7e,Sammamish High School,town,43.0,Washington,30631,Sammamish,Sammamish County,Sammamish School District
+c6deb2f0530ac1c7b8ba83684fc77768,Houston Elementary School,urban,20.0,Texas,90981,Houston,Houston County,Houston School District
+716fda0a45a8882914e286e5ac8936bc,Sammamish High School,unknown,56.0,Washington,64287,Sammamish,Sammamish County,Sammamish School District
+1d2324e6832920b7c143f426372f871a,Capon Bridge Academy,rural,36.0,West Virginia,98895,Capon Bridge,Capon Bridge County,Capon Bridge School District
+0ba078e84ef492c1aac9331686e52753,Chicago Middle School,unknown,7.0,Illinois,11007,Chicago,Chicago County,Chicago School District
+c47104c036136e15f200c2614d29d1ab,Brooklyn Elementary School,suburban,41.0,New York,25726,Brooklyn,Brooklyn County,Brooklyn School District
+2cfa55b06e3f683abf3c51407f54a511,Brooklyn High School,unknown,90.0,New York,40161,Brooklyn,Brooklyn County,Brooklyn School District
+bdf66ba5dc9c96de65a674c212738a23,San Francisco High School,rural,58.0,California,20205,San Francisco,San Francisco County,San Francisco School District
+6788420992ca525a6de593329364f3d0,Sammamish High School,rural,51.0,Washington,12733,Sammamish,Sammamish County,Sammamish School District
+9e3d750df296d9f0cd2372c22bffe17b,Oxford Middle School,rural,55.0,Michigan,23875,Oxford,Oxford County,Oxford School District
+862268d16683e10796c044d06f887f28,Redwater Middle School,suburban,95.0,Texas,54500,Redwater,Redwater County,Redwater School District
+138d994c2b0abeddc77444cb5543fc3c,The Woodlands High School,unknown,24.0,Texas,55793,The Woodlands,The Woodlands County,The Woodlands School District
+a53bc024d1a69d87f54e2019ba35844e,New York Middle School,rural,18.0,New York,43550,New York,New York County,New York School District
+c29d782b2722796e9a36d1ec2c6a6e9a,Houston Academy,town,59.0,Texas,83889,Houston,Houston County,Houston School District
+9082889be1cde87fec955f87ae5ec365,Capon Bridge Academy,urban,56.0,West Virginia,18950,Capon Bridge,Capon Bridge County,Capon Bridge School District
+cbdc43184d85a3d2a1a2748571348c2a,Miami High School,suburban,64.0,Florida,19724,Miami,Miami County,Miami School District
+0e9058b609a0a0f673b0a0917634c169,Capon Bridge Academy,rural,82.0,West Virginia,21835,Capon Bridge,Capon Bridge County,Capon Bridge School District
+f44883858de7ad6c949077c27674456f,San Francisco High School,unknown,83.0,California,34672,San Francisco,San Francisco County,San Francisco School District
+269ed4c980599b9379c2d2e49ae1a991,San Francisco Middle School,rural,43.0,California,21053,San Francisco,San Francisco County,San Francisco School District
+7010ed13b526b22d3f6c21f70a0537f0,Oxford Academy,suburban,47.0,Michigan,47079,Oxford,Oxford County,Oxford School District
+adcc3daf569f3ab3c643530068a51c68,San Francisco Academy,rural,42.0,California,22387,San Francisco,San Francisco County,San Francisco School District
+da003f16b9469bcf4082cbb948bddb3e,Brooklyn Middle School,rural,74.0,New York,96980,Brooklyn,Brooklyn County,Brooklyn School District
+f7baf55e4f6b58c8598ddaeceaafe543,Sammamish High School,unknown,90.0,Washington,21104,Sammamish,Sammamish County,Sammamish School District
+caaa5bbea4bbf962606e0e1c8f158449,Capon Bridge Academy,unknown,11.0,West Virginia,94675,Capon Bridge,Capon Bridge County,Capon Bridge School District
+5cd3336904aac1b75ca0c428822c4d32,Miami Middle School,urban,43.0,Florida,73736,Miami,Miami County,Miami School District
+27aa7cbc23377bbcfffe77c839feb99c,Redwater Elementary School,rural,64.0,Texas,80748,Redwater,Redwater County,Redwater School District
+c42cbc39e05b46c556363094a97431db,Brooklyn Middle School,urban,20.0,New York,33703,Brooklyn,Brooklyn County,Brooklyn School District
+692e07b60b2f6d5c700b5d5fb89f72f3,Capon Bridge Academy,town,78.0,West Virginia,47346,Capon Bridge,Capon Bridge County,Capon Bridge School District
+4f3949a83d3a258288b4f4743be79df4,Oxford Academy,suburban,86.0,Michigan,84766,Oxford,Oxford County,Oxford School District
+c733230448223120c4f9eccd7630a8a7,Sammamish Middle School,urban,25.0,Washington,89254,Sammamish,Sammamish County,Sammamish School District
+a4244f230d5ba7cd400035f0df7d0dd7,Oxford Elementary School,unknown,13.0,Michigan,77621,Oxford,Oxford County,Oxford School District
+290a3abbc35b9fea1578d70948f9e3d0,Miami Elementary School,unknown,18.0,Florida,67340,Miami,Miami County,Miami School District
+d11376e038d77b9ae916da57f24823ab,Oxford Academy,rural,53.0,Michigan,16980,Oxford,Oxford County,Oxford School District
+62dbc8503c5bf3a75fbbf0b1808389c8,Redwater Elementary School,urban,3.0,Texas,51770,Redwater,Redwater County,Redwater School District
+55d596afa663d2cdb6f6dbf1d6d441cc,New York Middle School,rural,36.0,New York,71925,New York,New York County,New York School District
+72d78bdd781799ffb49e04ccc24369e7,Los Angeles Middle School,rural,32.0,California,38266,Los Angeles,Los Angeles County,Los Angeles School District
+9bdf90f2ba2c0f19f0b2a5d18c7e6f42,Sammamish Elementary School,suburban,30.0,Washington,49472,Sammamish,Sammamish County,Sammamish School District
+a39257316b79afcc3d0a5f0c0c394ec7,Oxford Elementary School,rural,63.0,Michigan,88215,Oxford,Oxford County,Oxford School District
+3defa84993364f7e83efa9f3a1c7cc8a,Brooklyn High School,town,0.0,New York,90584,Brooklyn,Brooklyn County,Brooklyn School District
