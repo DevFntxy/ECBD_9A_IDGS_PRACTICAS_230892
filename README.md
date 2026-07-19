@@ -26,7 +26,8 @@ A continuación se detalla el progreso y estatus de las entregas a lo largo del 
 | :---: | :--- | :---: | :---: |
 | **01** | [**Análisis Exploratorio de Datos (EDA) con Python y Jupyter**](https://github.com/DevFntxy/ECBD_9A_IDGS_PRACTICAS_230892/blob/Practica03/Practica03/Practica03.ipynb) | 30 | ✅ |
 | **02** | [**Manejo de Mapas de Calor Georeferenciables en el Análisis EDA**](https://github.com/DevFntxy/ECBD_9A_IDGS_PRACTICAS_230892/blob/Practica04/Practica04/Practica04.ipynb) | 63 | ✅ |
-| **03** | [**Análisis Geoespacial y de Salud (Práctica 06)**](https://github.com/DevFntxy/ECBD_9A_IDGS_PRACTICAS_230892/blob/Practica06/Practica06/notebooks/Practica06.ipynb) | ➖ | 🆘 |
+| **03** | [**Análisis Geoespacial y de Salud (Práctica 06)**](https://github.com/DevFntxy/ECBD_9A_IDGS_PRACTICAS_230892/blob/Practica06/Practica06/notebooks/Practica06.ipynb) | 50 | ✔️ |
+| **04** | [**Pronóstico de Riesgo de Infarto en los próximos 6 meses (Análisis Supervisado) en Xicotepec de Juárez (Práctica 07)**](https://github.com/DevFntxy/ECBD_9A_IDGS_PRACTICAS_230892/blob/Practica07/Practica07/Practica07.ipynb) | 50 | ✔️ |
 
 <br>
 
